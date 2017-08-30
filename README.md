@@ -1,0 +1,1 @@
+Just a test for a 3D printed CNC ploter using DVD parts a servo and an Arduino board. This is the Arduino firmware (based on https://github.com/adidax/mini_cnc_plotter_firmware ), some tests written in Python and a Processing minimal app to drive it (based on https://github.com/damellis/gctrl)
